@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../11typescript/.idea/cg-site.iml" filepath="$PROJECT_DIR$/../11typescript/.idea/cg-site.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/cg-site-11ty3-boilerplate.iml" filepath="$PROJECT_DIR$/.idea/cg-site-11ty3-boilerplate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pages-framework/.idea/testing.iml" filepath="$PROJECT_DIR$/../pages-framework/.idea/testing.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,14 @@
+{
+  "name": "pages-boilerplate",
+  "version": "1.0.0",
+  "description": "Example site for cg-pages-2+. Can be uses as a starter project and modified accordingly or can be used as a demo site.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "James C Brooks",
+  "license": "ISC",
+  "dependencies": {
+    "pages-framework": "INSERT GITHUB LINK AND VERSION NUMBER"
+  }
+}
